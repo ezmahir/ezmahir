@@ -1,5 +1,7 @@
 ## Hi there Bro👋
 
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=ezmahir&theme=prussian&hide_border=true&border_radius=20)](https://git.io/streak-stats)
+
 <!--
 **ezmahir/ezmahir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
