@@ -2,6 +2,8 @@
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezmahir&label=Profile%20views&color=0e75b6&style=flat" alt="ezmahir" /> </p>
+<h1>About Me</h1>
+<p>Abouuuuuutttt me</p>
 
 - 🌱 I’m currently learning **Next.js**
 
