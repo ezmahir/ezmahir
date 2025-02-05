@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/FbH8cnT7/Untitled-design.jpg" alt="Banner" width="100%" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Sharful Islam Mahir</h1>
 
 
