@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sharful Islam Mahir</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezmahir&label=Profile%20views&color=0e75b6&style=flat" alt="ezmahir" /> </p>
 <h1>About Me</h1>
-<p>Abouuuuuutttt me</p>
+<h3 align="center">A passionate frontend developer from Bangladesh. I am currently looking for a job and practicing frontend and backend tasks. I am also into competitive programming. I have a good grasp on Data Structure and Algorithms as well</h3>
 
 - 🌱 I’m currently learning **Next.js**
 
